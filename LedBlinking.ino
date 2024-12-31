@@ -1,3 +1,5 @@
+//Alejandro Vivas
+
 //Declare variable
 
 int ledPin = 25;
@@ -9,8 +11,7 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-  
+
   //Turn on Led
   digitalWrite(ledPin, HIGH);
 
